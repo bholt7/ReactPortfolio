@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Routes, Route, HashRouter} from 'react-router-dom'
+import {HashRouter as Router, Routes, Route} from 'react-router-dom'
 import './App.css';
 import Footer from './components/Footer';
 import NavBar from './components/NavBar';
@@ -16,9 +16,9 @@ function App() {
       <Footer/>
       <Routes>
         <Route path='/ReactPortfolio' element={<AboutMe/>}/>
-        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/portfolio'} element={<Work/>}/>
-        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/resume'} element={<Resume/>}/>
-        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/contact'} element={<ContactPage/>}/>
+        <Route path= '/ReactPortfolio/portfolio' element={<Work/>}/>
+        <Route path= '/ReactPortfolio/resume' element={<Resume/>}/>
+        <Route path= '/ReactPortfolio/contact' element={<ContactPage/>}/>
 
 
 
