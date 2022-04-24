@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.e7065664.css",
-    "main.js": "/ReactPortfolio/static/js/main.eafcd3a3.js",
+    "main.css": "/ReactPortfolio/static/css/main.c559b8d8.css",
+    "main.js": "/ReactPortfolio/static/js/main.cd43ae44.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ReactPortfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/All-Pain-No-Grain.png": "/ReactPortfolio/static/media/All-Pain-No-Grain.b1f85e630aa6deb5b624.png",
     "static/media/project1png.png": "/ReactPortfolio/static/media/project1png.8d459cfa027f73f01ded.png",
@@ -12,12 +12,12 @@
     "static/media/text.png": "/ReactPortfolio/static/media/text.65be0a2a93898681dc9e.png",
     "static/media/quiz.png": "/ReactPortfolio/static/media/quiz.ae89bff71041ce9d985b.png",
     "index.html": "/ReactPortfolio/index.html",
-    "main.e7065664.css.map": "/ReactPortfolio/static/css/main.e7065664.css.map",
-    "main.eafcd3a3.js.map": "/ReactPortfolio/static/js/main.eafcd3a3.js.map",
+    "main.c559b8d8.css.map": "/ReactPortfolio/static/css/main.c559b8d8.css.map",
+    "main.cd43ae44.js.map": "/ReactPortfolio/static/js/main.cd43ae44.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ReactPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7065664.css",
-    "static/js/main.eafcd3a3.js"
+    "static/css/main.c559b8d8.css",
+    "static/js/main.cd43ae44.js"
   ]
 }
