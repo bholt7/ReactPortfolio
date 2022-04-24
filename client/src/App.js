@@ -9,8 +9,8 @@ import Work from './pages/Work';
 
 function App() {
   return (
-    
     <HashRouter>
+    <Router>
       <div classsName='app'>
       <NavBar/>
       <Footer/>
@@ -24,6 +24,7 @@ function App() {
 
       </Routes>
       </div>
+    </Router>
     </HashRouter>
     
   );
