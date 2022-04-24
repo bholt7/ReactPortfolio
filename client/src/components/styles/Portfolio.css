@@ -1,0 +1,26 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.port {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  align-items: center;
+  
+
+}
+
+.port__item {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1rem solid maroon;
+  border-radius: .5px;
+  justify-content: space-around;
+}
+
+.my-work{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}

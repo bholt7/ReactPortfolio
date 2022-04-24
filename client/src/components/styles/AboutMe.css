@@ -1,0 +1,35 @@
+.about-me-body{
+  font-size: large;
+}
+.pic {
+  display: flex;
+  margin: 1.5rem;
+  color: goldenrod;
+  justify-content: center;
+}
+
+.section__ttle__ {
+  color: goldenrod;
+  margin: .5em auto;
+  justify-content: center;
+
+}
+.section__ttle {
+  margin-bottom: .25rem;
+
+}
+
+.about-me {
+  background: linear-gradient(50deg, #660000, goldenrod);
+  border: 1rem solid goldenrod;
+  border-radius: .5rem;
+  padding: 15rem;
+  
+}
+
+@media (min-width: 600px) {
+  .about-me {
+      display: flex;
+      flex-direction: column; 
+  }
+}
