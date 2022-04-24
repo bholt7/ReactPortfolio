@@ -13,10 +13,10 @@ const NavBar = () => {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Portfolio
           </Typography>
-          <Button href= '/' color="inherit">About Me</Button>
-          <Button href= '/portfolio' color="inherit">Portfolio</Button>
-          <Button href= '/resume' color="inherit">Resume</Button>
-          <Button href= '/contact' color="inherit">Contact</Button>
+          <Button href= '/ReactPortfolio' color="inherit">About Me</Button>
+          <Button href= '/ReactPortfolio/portfolio' color="inherit">Portfolio</Button>
+          <Button href= '/ReactPortfolio/resume' color="inherit">Resume</Button>
+          <Button href= '/ReactPortfolio/contact' color="inherit">Contact</Button>
         </Toolbar>
       </AppBar>
     </Box>

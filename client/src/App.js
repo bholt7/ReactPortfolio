@@ -15,10 +15,10 @@ function App() {
       <NavBar/>
       <Footer/>
       <Routes>
-        <Route path='/' element={<AboutMe/>}/>
-        <Route path='/portfolio' element={<Work/>}/>
-        <Route path='/resume' element={<Resume/>}/>
-        <Route path='/contact' element={<ContactPage/>}/>
+        <Route path='/ReactPortfolio' element={<AboutMe/>}/>
+        <Route path='/ReactPortfolio/portfolio' element={<Work/>}/>
+        <Route path='/ReactPortfolio/resume' element={<Resume/>}/>
+        <Route path='/ReactPortfolio/contact' element={<ContactPage/>}/>
 
 
 

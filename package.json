@@ -1,4 +1,5 @@
 {
+  "homepage": "https://bholt7.github.io/ReactPortfolio",
   "dependencies": {
     "react-router-dom": "^6.3.0"
   },
