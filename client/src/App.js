@@ -16,9 +16,9 @@ function App() {
       <Footer/>
       <Routes>
         <Route path='/ReactPortfolio' element={<AboutMe/>}/>
-        <Route path='/ReactPortfolio/portfolio' element={<Work/>}/>
-        <Route path='/ReactPortfolio/resume' element={<Resume/>}/>
-        <Route path='/ReactPortfolio/contact' element={<ContactPage/>}/>
+        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/portfolio'} element={<Work/>}/>
+        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/resume'} element={<Resume/>}/>
+        <Route path={process.env.PUBLIC_URL + '/ReactPortfolio/contact'} element={<ContactPage/>}/>
 
 
 
