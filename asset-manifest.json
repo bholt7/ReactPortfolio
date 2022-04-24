@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.e7065664.css",
+    "main.js": "/ReactPortfolio/static/js/main.5042c36f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ReactPortfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/All-Pain-No-Grain.png": "/ReactPortfolio/static/media/All-Pain-No-Grain.b1f85e630aa6deb5b624.png",
+    "static/media/project1png.png": "/ReactPortfolio/static/media/project1png.8d459cfa027f73f01ded.png",
+    "static/media/brenden.PNG": "/ReactPortfolio/static/media/brenden.e4389bf3056b4a94089c.PNG",
+    "static/media/Resume.pdf": "/ReactPortfolio/static/media/Resume.6c98c0cc0efae3903b0d.pdf",
+    "static/media/passwordgenerator.png": "/ReactPortfolio/static/media/passwordgenerator.a6f844737a54249e1b9b.png",
+    "static/media/noteTaker.png": "/ReactPortfolio/static/media/noteTaker.0e278675480d773812c8.png",
+    "static/media/text.png": "/ReactPortfolio/static/media/text.65be0a2a93898681dc9e.png",
+    "static/media/quiz.png": "/ReactPortfolio/static/media/quiz.ae89bff71041ce9d985b.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.e7065664.css.map": "/ReactPortfolio/static/css/main.e7065664.css.map",
+    "main.5042c36f.js.map": "/ReactPortfolio/static/js/main.5042c36f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ReactPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7065664.css",
+    "static/js/main.5042c36f.js"
+  ]
+}
